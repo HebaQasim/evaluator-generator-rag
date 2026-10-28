@@ -1,0 +1,15 @@
+langchain-core
+langchain-text-splitters
+langchain-chroma
+langchain-huggingface
+sentence-transformers
+rank_bm25
+langchain-openai
+python-dotenv
+pypdf
+python-docx
+python-pptx
+requests
+beautifulsoup4
+faster-whisper
+av<19   # faster-whisper 1.2.1 does not work with av 19 yet

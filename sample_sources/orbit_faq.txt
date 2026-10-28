@@ -1,0 +1,14 @@
+Orbit Bikes - Frequently Asked Questions
+(This is a fictional company, made for testing a question-answering system.)
+
+Q: What should I do if the bike is stolen or lost?
+A: Call our support line 06 555 0123 at once. You will need to fill in a short report at the nearest branch.
+
+Q: Can children rent a bike?
+A: Children under 12 can ride only with an adult who rents a bike at the same time.
+
+Q: How long does a refund take?
+A: Refunds are sent within 7 working days to the same card.
+
+Q: Can I return the bike to another branch?
+A: Yes, inside the same city. Returning a bike in another city costs 15 JOD.

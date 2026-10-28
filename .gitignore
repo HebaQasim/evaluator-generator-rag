@@ -1,0 +1,14 @@
+# Secrets: the API keys must never be uploaded
+.env
+
+# Python
+.venv/
+__pycache__/
+
+# Created by the app when it runs
+chroma_database/
+*.db
+*.log
+
+# The task file from the mentor (protected content); the sample PDF in sample_sources is kept
+/*.pdf
