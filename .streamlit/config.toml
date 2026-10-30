@@ -1,0 +1,7 @@
+[server]
+# Streamlit watches the imported libraries for changes, and with transformers this prints long, harmless errors.
+# The app does not need it: restart "streamlit run" after changing the code.
+fileWatcherType = "none"
+
+[browser]
+gatherUsageStats = false

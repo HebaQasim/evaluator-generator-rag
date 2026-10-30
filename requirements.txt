@@ -4,6 +4,8 @@ langchain-chroma
 langchain-huggingface
 sentence-transformers
 rank_bm25
+redis
+streamlit
 langchain-openai
 python-dotenv
 pypdf

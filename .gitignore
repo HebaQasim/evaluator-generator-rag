@@ -12,3 +12,4 @@ chroma_database/
 
 # The task file from the mentor (protected content); the sample PDF in sample_sources is kept
 /*.pdf
+logs/
